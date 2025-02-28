@@ -67,4 +67,12 @@ Netflix datasets are stored in both a GitHub repository and an Azure Data Lake. 
 - **Azure Synapse Analytics:** For serving processed data and supporting advanced analytics.
 - **Power BI:** For creating interactive dashboards and visualizations.
 
+- ## Resourses provisioning
+- Create Azure resource group
+- Create a Data Lake storage account and layers of storage
+- Create Azure Data Factory
+- Create linked services or connectors (Http and Azure Data Lake Gen 2)
+- Create Azure Databricks
+- Create Azure Databricks connector
+
 This approach ensures a robust and scalable data pipeline, leveraging Azure and Databricks capabilities to handle large-scale data processing and analytics.
