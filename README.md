@@ -80,6 +80,6 @@ Netflix datasets are stored in both a GitHub repository and an Azure Data Lake. 
 - ForEach Activity
 - Validation activity
 
-
+![Azure Data Factory Pipeline Activities](Images/Netflix_ADF_pipline.png)
 
 This approach ensures a robust and scalable data pipeline, leveraging Azure and Databricks capabilities to handle large-scale data processing and analytics.
