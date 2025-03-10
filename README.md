@@ -23,7 +23,6 @@ Netflix datasets are stored in both a GitHub repository and an Azure Data Lake. 
    - Implement a multi-layered storage architecture (bronze, silver, gold) to manage data at different stages of processing.
 
 5. **Data Serving:**
-   - Serve processed data to Azure Synapse Analytics for advanced analytics and reporting.
    - Integrate with Power BI to provide interactive dashboards and visualizations for end-users.
 
 ## Objectives
@@ -64,8 +63,6 @@ Netflix datasets are stored in both a GitHub repository and an Azure Data Lake. 
 - **Databricks PySpark:** For data transformation and processing in the silver storage layer.
 - **Databricks Notebooks:** For developing dynamic and parameterized workflows.
 - **Delta Live Tables:** For creating ETL workflows and star schema in the gold storage layer.
-- **Azure Synapse Analytics:** For serving processed data and supporting advanced analytics.
-- **Power BI:** For creating interactive dashboards and visualizations.
 
 ## Resources provisioning
 - Create Azure resource group
