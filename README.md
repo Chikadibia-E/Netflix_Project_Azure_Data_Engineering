@@ -85,4 +85,7 @@ Netflix datasets are stored in both a GitHub repository and an Azure Data Lake. 
 
 ![Autoloader writeStream result](Images/Autoloader_writeSream.png) **Autoloader writeStream result**
 
+## DLT pipline results
+![Delta Live Table Result]() **DLT pipeline result to gold layer**
+
 This approach ensures a robust and scalable data pipeline, leveraging Azure and Databricks capabilities to handle large-scale data processing and analytics.
